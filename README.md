@@ -10,4 +10,4 @@ You (perhaps) will notice that there's already some data in the database (what? 
 - [Collection with samples](https://www.getpostman.com/collections/5434e4423f599b6d8e32)
 ## Testing
 - On the project they're already some basic test on the Player object
-- To tun them just go to the test directory and run PlayerTest.java
+- To run them just go to the test directory and run PlayerTest.java
